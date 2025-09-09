@@ -1,11 +1,11 @@
-**🛒 Supermarket Sales Dataset Analysis**
-**📌 Project Overview**
+# **🛒 Supermarket Sales Dataset Analysis**
+## **📌 Project Overview**
 
 This project analyzes the Supermarket Sales Dataset (Kaggle) to explore customer purchasing behaviors, sales trends, and payment preferences. The main objective is to uncover insights through exploratory data analysis (EDA) and interactive dashboards in Power BI.
 
 The workflow combines Python (Jupyter Notebook) for preprocessing and cleaning the dataset, followed by Power BI for visualization and storytelling. No predictive modeling is included; instead, the focus is on discovering key business insights.
 
-**📂 Dataset Description**
+## **📂 Dataset Description**
 
 Source: Kaggle – Supermarket Sales Dataset
 
@@ -23,7 +23,7 @@ Payment: Payment Method
 
 Other Attributes: Rating, Gross Margin %, Gross Income
 
-**🔍 Analysis Questions**
+## **🔍 Analysis Questions**
 
 1.How are sales distributed across different product lines?
 
@@ -36,7 +36,7 @@ What can we learn from customer ratings in relation to sales performance?
 
 5.What can you say about customer buying habits for different product lines based on gender in each city?
 
-**📊 Key Findings (EDA & Visualization)**
+## **📊 Key Findings (EDA & Visualization)**
 
 The analysis revealed several important insights into supermarket sales performance. Sales across product lines were relatively balanced, though **Food and Beverages** stood out as the top performer with over **56K in sales**, while **Health and Beauty** recorded the lowest at **49K**.
 
@@ -48,7 +48,7 @@ Product line performance also varied by city. **Naypyitaw recorded the strongest
 
 Gender-based analysis revealed further insights. Across most product lines and cities, **female customers tended to spend more**, particularly in lifestyle and travel-related categories. For example, females dominated **Sports and Travel (12.1K) and Food and Beverages (10.5K)** in Mandalay, as well as **Home and Lifestyle (14.3K) and Sports and Travel (11.9K)** in Yangon. Meanwhile, males showed stronger preferences in **Health and Beauty** and certain food categories, such as **10K in Health and Beauty in Naypyitaw**. Overall, while both genders contributed meaningfully, spending habits reflected notable differences by city and category.
 
-**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 
 Python (Jupyter Notebook): pandas, numpy → preprocessing & cleaning
 
